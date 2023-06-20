@@ -1,4 +1,4 @@
-# XML programiranje: projektni zadatak
+# Programiranje web aplikacija: projektni zadatak
 Projekt iz kolegija Programiranje web aplikacija.
 
 Zadatak se nalazi u mapi "zadatak".
